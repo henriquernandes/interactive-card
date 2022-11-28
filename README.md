@@ -13,6 +13,10 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover, active, and focus states for interactive elements on the page
 
+### Live preview
+
+You can find this page live preview here: https://henriquernandes.github.io/interactive-card/
+
 ### Screenshot
 
 <p align="center">
